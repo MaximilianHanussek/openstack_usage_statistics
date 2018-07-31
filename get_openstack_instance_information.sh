@@ -3,8 +3,8 @@
 #title           :get_openstack_instance_information
 #description     :This script will generate information of the current Openstack projects and their instances
 #author		 :Maximilian Hanussek
-#date            :2017-12-15
-#version         :0.3
+#date            :2018-06-22
+#version         :0.5
 #usage		 :sh get_openstack_instance_information.sh
 #notes           :Install OpenStack command line API tools 
 #bash_version    :4.2.46(1)-release

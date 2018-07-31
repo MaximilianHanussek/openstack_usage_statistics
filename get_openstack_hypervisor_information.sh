@@ -2,8 +2,8 @@
 #title           :get_openstack_hypervisor_information
 #description     :This script will generate usage statistics of OpenStack VMs from the hypervisor directly
 #author          :Maximilian Hanussek
-#date            :2017-12-15
-#version         :0.4
+#date            :2018-06-22
+#version         :0.6
 #usage           :sh get_openstack_hypervisor_information.sh
 #notes           :Install jq to parse json file 
 #bash_version    :4.2.46(1)-release
